@@ -9,7 +9,7 @@ I am profficient in:
 3.  JAVASCRIPT
 and currently learning REACT.
 
-My aim is to learn these amazing technologies to build projects, contribute to OpenSource and build a carrer in Tech.
+My aim is to learn these amazing technologies to build projects, contribute to OpenSource and build a career in Tech.
 
 You can connect with me on twitter at [@bitboy\_shubham](https://twitter.com/bitboy_shubham)
 <!---
