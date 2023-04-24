@@ -1,15 +1,16 @@
-## [Your Name]
+## SHUBHAM AGARWAL
 ### Cloud Engineer | Web Developer
 
-🔭 I'm a passionate Cloud Engineer and Web Developer with expertise in designing, deploying, and managing cloud-based solutions for enterprise applications. I enjoy building scalable and performant web applications that deliver meaningful user experiences.
+💻 Self-taught Cloud Engineer and Web Developer with a passion for building scalable web applications and focus on front-end development. AWS Certified Cloud Practitioner, Solutions Architect Associate, and SysOps Administrator Associate.
 
-🌐 As a skilled web developer, I specialize in front-end technologies such as HTML, CSS, JavaScript, and modern frameworks like React and Angular. I'm also proficient in back-end technologies like Node.js, Express, and databases such as MongoDB and MySQL.
+☁️ Hands-on experience with AWS Cloud, including building Serverless applications, implementing Infrastructure as Code (IaC) with CloudFormation and CDK, and managing cloud resources for enterprise applications.
 
-☁️ In the cloud computing domain, I have hands-on experience with major cloud platforms including AWS, Azure, and Google Cloud. I'm skilled in creating cloud infrastructure, managing cloud resources, and implementing cloud-based solutions using services like EC2, S3, Lambda, API Gateway, and more.
+🌐 Skilled in front-end technologies like HTML, CSS, JavaScript, React, and Angular, with experience in building user-friendly web interfaces and delivering meaningful user experiences.
 
-💼 I have a proven track record of working on complex projects, collaborating with cross-functional teams, and delivering high-quality solutions on time and within budget. I'm constantly learning and keeping up-to-date with the latest trends and technologies in the cloud and web development space.
+📚 Constantly learning and staying up-to-date with the latest trends and best practices in cloud computing and web development through self-study, online resources, and cloud certifications.
 
-📚 Apart from coding, I enjoy sharing my knowledge with the community through blogs, tutorials, and speaking engagements at tech events. I'm always open to new opportunities and collaborations, so feel free to connect with me to discuss any exciting projects or ideas.
+🔭 Passionate about leveraging cloud technologies to build efficient and cost-effective solutions. Have successfully completed projects visible on my GitHub profile, showcasing my skills in building web applications using AWS services and IaC.
 
-📫 You can reach me at [Your Email Address] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) to learn more about my work and experience.
+📫 Reach me at [Your Email Address] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) to discuss potential collaborations, projects, or cloud-related opportunities.
+
 
