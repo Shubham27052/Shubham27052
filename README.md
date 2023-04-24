@@ -1,4 +1,4 @@
-<h3 align="center">SHUBHAM AGARWAL</h3>
+<h3 align="center"><b>SHUBHAM AGARWAL</b></h3>
 <h4 align="center">Cloud Engineer | Web Developer</h4>
 
 <br/>
