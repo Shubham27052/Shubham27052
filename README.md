@@ -4,7 +4,7 @@
 <br/>
 <p>💻 Self-taught Cloud Engineer and Web Developer with a passion for building scalable web applications.</p>
 
-<p>📚AWS Certified: <b>Cloud Practitioner, Solutions Architect Associate, and SysOps Administrator Associate</b>.</p> 
+<p>📚 AWS Certified: <b>Cloud Practitioner, Solutions Architect Associate, and SysOps Administrator Associate</b>.</p> 
 
 <p>☁️ Experienced with AWS Cloud, <b>Serverless</b> applications, and IaC using <b>CloudFormation and CDK</b>.</p>
 
