@@ -1,5 +1,5 @@
 <h3 align="center"><b>SHUBHAM AGARWAL</b></h3>
-<h4 align="center">Cloud Engineer | Web Developer</h4>
+<h4 align="center">Cloud Engineer | DevOps | Web Developer</h4>
 
 <br/>
 <p>💻 Self-taught Cloud Engineer and Web Developer with a passion for building scalable web applications.</p>
