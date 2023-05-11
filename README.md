@@ -6,7 +6,7 @@
 
 <p>📚 AWS Certified: <b>Cloud Practitioner, Solutions Architect Associate, and SysOps Administrator Associate</b>.</p> 
 
-<p>☁️ Experienced with AWS Cloud, <b>Serverless</b> applications, and IaC using <b>CloudFormation and CDK</b>.</p>
+<p>☁️ Experienced with Docker, Kubernetes, <b>Serverless</b> applications, and IaC using <b>CloudFormation and CDK</b>.</p>
 
 <p>🌐 Skilled in front-end technologies like <b>HTML, CSS, JavaScript</b>, and learning <b>React</b>.</p>
 
