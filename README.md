@@ -2,7 +2,6 @@
 <h4 align="center">Web Developer | Cloud Engineer</h4>
 
 <br/>
-<p>🌐Experienced in utilizing the <b>MERN (MongoDB, React, NodeJS)</b> stack to develop feature-rich web applications.</p>
 <p>💻 Skilled in <b>Python</b> and <b>Javascript</b> programming and related frameworks.</p>
 <p>📚 AWS Certified: <b>Cloud Practitioner, Solutions Architect Associate, and SysOps Administrator Associate</b>.</p> 
 <p>🔭 Successfully completed multiple projects, visible on my GitHub.</p>
